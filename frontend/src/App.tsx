@@ -13,9 +13,7 @@ function App() {
           </div>
         </section>
       </main>
-      <NotificationButton />
-      <NotificationButton />
-    </>
+     </>
   );
 }
 
